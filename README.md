@@ -1,4 +1,4 @@
-#* 🔐 Computer Security – Course Summary
+## 🔐 Computer Security – Course Summary
 
 This repository summarizes the core concepts I learned in my Computer Security course, covering foundational principles, cryptography, system security, network security, web security, usability, and privacy.
 
