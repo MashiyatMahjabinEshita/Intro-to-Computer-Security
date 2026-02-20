@@ -1,6 +1,11 @@
 # 🔐 Computer Security – Course Summary
 
 This repository summarizes the core concepts I learned in my Computer Security course, covering foundational principles, cryptography, system security, network security, web security, usability, and privacy.
+
+## 📄 Related Project Paper
+This poster paper was submitted to and published at the USENIX Symposium on Usable Privacy and Security (SOUPS 2024).
+🔗 [View on Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=q6DopxEAAAAJ&citation_for_view=q6DopxEAAAAJ:Tyk-4Ss8FVUC)
+
 ### Book suggested by my instructor to expand your knowledge in security
 - Introduction to Computer Security, Michael Goodrich, Roberto Tamassia (First Edition)
 
