@@ -1,8 +1,8 @@
-# 🔐 Computer Security – Course Summary
+#* 🔐 Computer Security – Course Summary
 
 This repository summarizes the core concepts I learned in my Computer Security course, covering foundational principles, cryptography, system security, network security, web security, usability, and privacy.
 
-## Topics Covered
+### Topics Covered
 
 - **Foundations:** Goals of security (confidentiality, integrity, availability), security domains, physical security  
 - **Cryptography:** Symmetric vs asymmetric encryption (DES, AES, RSA), Diffie-Hellman, Needham-Schroeder, PKI, hashing  
@@ -13,6 +13,10 @@ This repository summarizes the core concepts I learned in my Computer Security c
 - **Usability & Security:** Human-centered security, usability vs protection trade-offs  
 - **Privacy:** Importance of privacy, privacy policies, global perspectives  
 
-## Key Takeaway
+### Key Takeaway
 
 Security is not just cryptography or firewalls — it is a layered, system-wide, and human-aware discipline.
+
+### Book suggested by my instructor to expand your knowledge in security
+- Introduction to Computer Security, Michael Goodrich, Roberto Tamassia (First Edition)
+
